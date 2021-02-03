@@ -1,0 +1,39 @@
+
+
+body {
+
+    font-family: 'Lato', sans-serif;
+    border: 18px solid  hsl(204, 8%, 76%);
+    border-radius: 20px;
+    
+
+   
+}
+
+h2{
+    letter-spacing: 3.2px;
+    font-weight: bold ;
+    font-size: 48px;
+    color: #3d3d3d;
+    
+    
+    
+
+}
+.h5 {
+    color: #3498db;
+    text-align: right;
+    padding: 15px;
+    
+    
+    
+}
+p{
+    border-bottom: 5px solid #BDC3C7;
+    padding: 25px;
+
+}
+h2:hover{
+    font-size: 100px;
+    text-align: center;
+}
